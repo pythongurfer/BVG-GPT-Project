@@ -105,4 +105,4 @@ This project provides a solid foundation. The next logical steps are:
 
 ## 📬 Contact
 
-* **GitHub:** [your-username](https://github.com/pythongurfer)
+* **GitHub:** [pythongurfer](https://github.com/pythongurfer)
