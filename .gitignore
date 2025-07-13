@@ -1,0 +1,46 @@
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Archivos de entorno
+.env
+.env.*
+
+# Archivos de configuración locales
+*.local
+*.log
+
+# Archivos de datos y modelos
+*.pkl
+*.pt
+*.ckpt
+*.onnx
+*.h5
+*.joblib
+*.npy
+*.npz
+
+# Archivos grandes o temporales
+*.dylib
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Archivos de Jupyter y VSCode
+.ipynb_checkpoints/
+.vscode/
+
+# Build / distribución
+build/
+dist/
+*.egg-info/
+
+# Subrepositorios o git embebidos por error
+BVG-GPT-Project/
