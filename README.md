@@ -83,14 +83,6 @@ This project was built following **Object-Oriented Programming (OOP)** principle
     ```
     The script will automatically process the PDFs and then prompt you with example questions.
 
----
-
-## 🎓 Key Learnings & Challenges
-
-* **Deep Dive into RAG:** Gained a practical, hands-on understanding of how Retrieval-Augmented Generation works at a fundamental level, without relying on high-level abstractions like LangChain.
-* **Vector Semantics:** Implemented and analyzed the effectiveness of **Cosine Similarity** vs. other distance metrics for understanding textual relevance in a high-dimensional vector space.
-* **Robust Engineering:** Faced and solved real-world data challenges, such as handling corrupted or unreadable PDFs, by building robust error-handling into the data loading pipeline.
-* **OOP for AI Systems:** Solidified the value of object-oriented design for building complex, multi-stage AI systems, where each component can be tested, improved, or replaced independently.
 
 ---
 
