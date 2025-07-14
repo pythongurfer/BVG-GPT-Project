@@ -84,54 +84,17 @@ This project was built following **Object-Oriented Programming (OOP)** principle
     The script will automatically process the PDFs and then prompt you with example questions.
 
 
----
+-------------------------------
+
 🌐 General Use Case: AI Chatbot for Internal Knowledge Retrieval
+
 Any organization that relies on dense, official, or technical documents can benefit from a RAG-based chatbot. Instead of employees or customers struggling to search through manuals, policies, or FAQs, they can simply ask a question and receive a fact-based, source-grounded answer.
 
-🏢 How This Applies to Other Companies
-1. Airlines / Transport Operators
-Documents: Baggage rules, flight conditions, safety policies, fare charts.
-
-Use: Customers or agents can query rules ("Can I bring a bike on board?") and get answers from airline policy documents.
-
-Benefit: Reduces call center load, improves customer experience.
-
-2. Banks & Financial Institutions
-Documents: Loan terms, privacy policies, compliance documents, product brochures.
-
-Use: Helpdesk bots that give exact answers about fees, eligibility, or terms of service.
-
-Benefit: Ensures regulatory compliance by eliminating hallucinations in customer responses.
-
-3. Insurance Companies
-Documents: Policy documents, claims procedures, exclusions lists.
-
-Use: Assist customers or agents in quickly finding details on what's covered or not.
-
-Benefit: Fewer disputes, faster claims processing.
-
-4. Legal Firms / Compliance Departments
-Documents: Laws, regulations, case documents, contracts.
-
-Use: Internal research assistant that helps staff retrieve exact clauses or precedents.
-
-Benefit: Saves hours of manual legal research; improves precision.
-
-5. Healthcare Providers
-Documents: Treatment guidelines, insurance contracts, patient care protocols.
-
-Use: Internal support for doctors/nurses ("What’s the protocol for XYZ?") or for patients ("Is XYZ covered by insurance?").
-
-Benefit: Improves care quality, reduces administrative burden.
-
-6. Tech Companies (Product Support)
-Documents: API documentation, user manuals, release notes, bug reports.
-
-Use: Developer or customer assistant that fetches code examples or troubleshooting steps.
-
-Benefit: Cuts support tickets; improves developer onboarding.
+🚀 The Big Picture
+This project isn’t just about BVG or transport—it’s a template for how any company can turn internal documents into a searchable, intelligent assistant. It bridges the gap between static documentation and dynamic, conversational access to information.
 
 
+------------------------------------
 
 ## 📬 Contact
 
