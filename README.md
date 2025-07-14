@@ -36,7 +36,7 @@ This project was built following **Object-Oriented Programming (OOP)** principle
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Python 3.10+**
 * **Sentence-Transformers**: For generating state-of-the-art text embeddings.
@@ -46,7 +46,7 @@ This project was built following **Object-Oriented Programming (OOP)** principle
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -86,11 +86,11 @@ This project was built following **Object-Oriented Programming (OOP)** principle
 
 -------------------------------
 
-🌐 General Use Case: AI Chatbot for Internal Knowledge Retrieval
+General Use Case: AI Chatbot for Internal Knowledge Retrieval
 
 Any organization that relies on dense, official, or technical documents can benefit from a RAG-based chatbot. Instead of employees or customers struggling to search through manuals, policies, or FAQs, they can simply ask a question and receive a fact-based, source-grounded answer.
 
-🚀 The Big Picture
+The Big Picture
 This project isn’t just about BVG or transport—it’s a template for how any company can turn internal documents into a searchable, intelligent assistant. It bridges the gap between static documentation and dynamic, conversational access to information.
 
 
